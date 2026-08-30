@@ -19,7 +19,7 @@ public:
             }
             else {
                 end = mid - 1;
-            }
+            } 
         }
 
         // Reset
