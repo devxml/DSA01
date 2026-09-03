@@ -4,7 +4,7 @@ public:
         if (s1.length() > s2.length())
             return false;
 
-        vector<int> need(26, 0);
+        vector<int> need(26, 0); 
         vector<int> window(26, 0);
 
         for (char c : s1)
